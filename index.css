@@ -11,3 +11,9 @@
 ul {
   list-style: none;
 }
+
+li.user:hover {
+  cursor: pointer;
+  text-decoration: underline;
+  color: blue;
+}
